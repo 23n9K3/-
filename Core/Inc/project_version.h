@@ -1,0 +1,12 @@
+#ifndef PROJECT_VERSION_H
+#define PROJECT_VERSION_H
+
+#define PROJECT_NAME          "IOTproject"
+#define PROJECT_VERSION_MAJOR 0
+#define PROJECT_VERSION_MINOR 12
+#define PROJECT_VERSION_PATCH 0
+#define PROJECT_STAGE         "NETWORK_TIME"
+#define PROJECT_VERSION_SUFFIX "network-time"
+#define PROJECT_VERSION_STRING "0.12.0-network-time"
+
+#endif /* PROJECT_VERSION_H */
